@@ -10,7 +10,7 @@ I'm a Master's CS graduate from the University of Luxembourg, specializing in AI
 - Built a RAG-based SQL assistant inside a multi-agent framework at [Flow](https://www.flow.cl), production-grade, with access control and automated query handling
 - Designed LLM evaluation pipelines and knowledge bases using AWS Bedrock, LangChain, FAISS, and Redshift
 
-**Research — Graph ML & Zero-Shot Learning**
+**Research, Graph ML & Zero-Shot Learning**
 - Master's thesis: *Generalized Zero-Shot Learning on Graphs*, systematic evaluation of DGPN, DBiGCN, ICIS under realistic GZSL protocols; proposed a transductive baseline achieving 39% harmonic mean on Cora where prior methods collapsed to 0%
 - Diagnosed why graph ZSL methods fail in generalized settings (magnitude miscalibration, GNN homophily amplification, semantic-structure mismatch)
 
